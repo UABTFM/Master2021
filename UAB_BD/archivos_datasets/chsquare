@@ -1,0 +1,256 @@
+-----------------------------------------------------
+
+AA Tweets
+The 5 largest deviations:
+
+  digits absolute.diff
+1      7          3.88
+2      4          2.88
+3      3          2.13
+4      6          1.75
+5      2          1.50
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 6.8695, df = 8, p-value = 0.5508
+
+
+
+--------------------------------------------------------
+AA REtweets
+
+The 5 largest deviations:
+
+  digits absolute.diff
+1      1          6.63
+2      6          3.25
+3      5          2.62
+4      2          2.50
+5      3          1.87
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 7.4482, df = 8, p-value = 0.4891
+
+----------------------------------------------------------------------
+AA Replicas
+The 5 largest deviations:
+
+  digits absolute.diff
+1      2          6.97
+2      4          5.41
+3      7          2.94
+4      5          1.62
+5      6          1.45
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 12.009, df = 8, p-value = 0.1508
+-----------------------------------------------------
+
+GL tweets
+
+The 5 largest deviations:
+
+  digits absolute.diff
+1      2          4.50
+2      8          4.37
+3      3          3.87
+4      9          3.75
+5      1          3.37
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 17.985, df = 8, p-value = 0.02134
+
+----------------------------------------------------------
+GL REtweets
+
+The 5 largest deviations:
+
+  digits absolute.diff
+1      1          5.47
+2      3          4.50
+3      4          3.41
+4      6          2.55
+5      5          1.62
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 8.8387, df = 8, p-value = 0.3561
+
+---------------------------------------------------------------
+Replica_GL
+
+The 5 largest deviations:
+
+  digits absolute.diff
+1      2          5.50
+2      7          3.88
+3      5          2.38
+4      9          1.25
+5      3          1.13
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 7.8439, df = 8, p-value = 0.4489
+--------------------------------------------------------------------
+Replicas JV
+
+The 5 largest deviations:
+
+  digits absolute.diff
+1      1         14.13
+2      5          5.23
+3      4          2.40
+4      3          2.25
+5      9          2.02
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 18.93, df = 8, p-value = 0.01524
+---------------------------------------------------------------------
+Tweets JV
+
+
+The 5 largest deviations:
+
+  digits absolute.diff
+1      1          9.37
+2      3          8.13
+3      4          3.12
+4      5          2.62
+5      2          1.50
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 15.688, df = 8, p-value = 0.04706
+
+------------------------------------------------------------------------
+REtweets JV
+The 5 largest deviations:
+
+  digits absolute.diff
+1      2          8.67
+2      8          2.58
+3      5          2.54
+4      4          1.78
+5      6          1.69
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 10.227, df = 8, p-value = 0.2495
+------------------------------------------------------
+Tweets YK
+The 5 largest deviations:
+
+  digits absolute.diff
+1      2          6.50
+2      6          2.75
+3      7          2.12
+4      3          1.87
+5      1          1.63
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 7.1669, df = 8, p-value = 0.5187
+---------------------------------------------------------------------
+
+REtweetsYK
+The 5 largest deviations:
+
+  digits absolute.diff
+1      1          4.93
+2      2          4.33
+3      8          2.42
+4      9          1.80
+5      4          1.78
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 6.7766, df = 8, p-value = 0.5609
+
+-------------------------------------------------------------------------
+
+Replicas Yaku
+
+The 5 largest deviations:
+
+  digits absolute.diff
+1      1          4.93
+2      2          4.33
+3      8          2.42
+4      9          1.80
+5      4          1.78
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  digitos
+X-squared = 6.7766, df = 8, p-value = 0.5609
+
+
+------------------------------------------------
+
+Usuarios GL
+The 5 largest deviations:
+
+  digits absolute.diff
+1     13       5017.33
+2     12       1015.79
+3     71        603.55
+4     15        344.15
+5     18        277.93
+
+
+
+
+The 5 largest deviations: 
+
+  digits absolute.diff
+1     13       3979.08
+2     10        170.95
+3     11        154.07
+4     12        131.57
+5     14        123.75
+
+Stats:
+
+	Pearson's Chi-squared test
+
+data:  campaniatotal$in_reply_to_status_id
+X-squared = 123077, df = 89, p-value < 2.2e-16
