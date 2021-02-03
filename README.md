@@ -26,9 +26,3 @@ La herramienta a ser implementada en la máquina local es:
 RStudio 1.3.1093
 
 La metodología propuesta tiene una actividad iterativa con cada una de las campañas desarrolladas por los candidatos, ajustada a cumplir con los estándares de la Ley de Benford y a responder las inquietudes planteadas previamente en el presente TFM por lo que se harán ajustes de variables más no estructurales. El término campaña, en el presente análisis, hará mención a los Hashtags en su conjunto utilizados por cada candidato en su cuenta twitter. 
-
-
-
-# Calibración del Script
-Planteadas las hipótesis se procede a la extracción y tabulación de los dígitos, se abre el archivo “WHO COVID-19 global table data January 12th 2021at2.19.16AM.csv”; se explora las variables con la que se dispone para contestar las preguntas planteadas en el TFM Análisis de prestigio de las comunidades Twitter ecuatorianas, entre la precampaña y primera vuelta electoral de los candidatos a presidentes:@ecuarauz, @LassoGuillermo, @juanfervelasco y @yakuperezg mediante la “Ley de Benford” 
-en el capítulo "Marco Metodológico"
